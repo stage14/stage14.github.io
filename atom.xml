@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>STAGE 14</title>
+  
+  <subtitle>DESIGN3RS NEVER RETIRE, WE DIE.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-11-04T21:46:45.254Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Chris HE</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Again, world!</title>
+    <link href="http://yoursite.com/2017/11/05/hello-world/"/>
+    <id>http://yoursite.com/2017/11/05/hello-world/</id>
+    <published>2017-11-04T20:13:54.428Z</published>
+    <updated>2017-11-04T21:46:45.254Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://preview.ibb.co/cEkiHb/DASPLAYER_01.png" alt="DASPLAYER mockup"><br>有点不太容易，测试一下。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://preview.ibb.co/cEkiHb/DASPLAYER_01.png&quot; alt=&quot;DASPLAYER mockup&quot;&gt;&lt;br&gt;有点不太容易，测试一下。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
