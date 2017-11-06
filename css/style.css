@@ -476,7 +476,7 @@ header .site-branding .site-title {
 header .site-branding .site-title a {
   display: inline-block;
   color: #fff;
-  font-weight: bolder;
+  font-weight: bold;
   background-color: #f03838;
   line-height: 3rem;
   height: 3rem;
