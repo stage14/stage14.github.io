@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-04T21:46:45.254Z</updated>
+  <updated>2017-11-06T06:21:17.123Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,23 +18,25 @@
   
   <entry>
     <title>Hello Again, world!</title>
-    <link href="http://yoursite.com/2017/11/05/hello-world/"/>
-    <id>http://yoursite.com/2017/11/05/hello-world/</id>
-    <published>2017-11-04T20:13:54.428Z</published>
-    <updated>2017-11-04T21:46:45.254Z</updated>
+    <link href="http://yoursite.com/2017/11/01/hello-world/"/>
+    <id>http://yoursite.com/2017/11/01/hello-world/</id>
+    <published>2017-11-01T03:19:00.000Z</published>
+    <updated>2017-11-06T06:21:17.123Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://preview.ibb.co/cEkiHb/DASPLAYER_01.png" alt="DASPLAYER mockup"><br>有点不太容易，测试一下。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://preview.ibb.co/cEkiHb/DASPLAYER_01.png" alt="DASPLAYER mockup"><br>有点不太容易，测试一下。<br><a id="more"></a><br><img src="http://preview.ibb.co/cOfcAw/keyboard_Customized_mechanical_07.jpg" alt="CUSTOMIZED MECHANICAL KEYBOARD"><br>对我来说，👆是我比较喜欢的风格。<br><img src="http://preview.ibb.co/frxM3G/keyboard_Customized_mechanical_08.jpg" alt="CUSTOMIZED MECHANICAL KEYBOARD"><br>对大背心来说，估计更倾向👆这种风格。</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://preview.ibb.co/cEkiHb/DASPLAYER_01.png&quot; alt=&quot;DASPLAYER mockup&quot;&gt;&lt;br&gt;有点不太容易，测试一下。&lt;/p&gt;
-
-      
+      &lt;p&gt;&lt;img src=&quot;http://preview.ibb.co/cEkiHb/DASPLAYER_01.png&quot; alt=&quot;DASPLAYER mockup&quot;&gt;&lt;br&gt;有点不太容易，测试一下。&lt;br&gt;
     
     </summary>
     
+      <category term="uncategories" scheme="http://yoursite.com/categories/uncategories/"/>
+    
+    
+      <category term="Personal" scheme="http://yoursite.com/tags/Personal/"/>
+    
+      <category term="Gear" scheme="http://yoursite.com/tags/Gear/"/>
     
   </entry>
   
