@@ -467,7 +467,7 @@ header .site-branding {
   margin-bottom: 2rem;
   font-family: "Open Sans", arial, sans-serif;
   letter-spacing: 0.1em;
-  text-transform: uppercase;
+  text-transform: none;
 }
 header .site-branding .site-title {
   margin: 0;
@@ -485,7 +485,7 @@ header .site-branding .site-title a {
   transition: padding 0.3s ease-out;
 }
 header .site-branding .site-title a:hover {
-  padding: 0 2.8rem;
+  padding: 1rem 2.8rem;
 }
 header .site-branding .site-description {
   color: #9e9e9e;
@@ -900,10 +900,12 @@ footer.site-footer {
 }
 footer.site-footer a {
   color: #f03838;
+  text-transform: lowercase;
 }
 footer.site-footer .site-info {
   color: #9e9e9e;
   font-size: 1.3rem;
+  text-transform: uppercase;
   margin: 0.5rem 0;
 }
 .icon-meta {
