@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stage14.design3r.net/"/>
-  <updated>2017-11-07T02:29:29.823Z</updated>
+  <updated>2017-11-07T02:36:06.443Z</updated>
   <id>http://stage14.design3r.net/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://stage14.design3r.net/2017/11/02/DASPLAYER-for-TV/"/>
     <id>http://stage14.design3r.net/2017/11/02/DASPLAYER-for-TV/</id>
     <published>2017-11-02T03:19:00.000Z</published>
-    <updated>2017-11-07T02:29:29.823Z</updated>
+    <updated>2017-11-07T02:36:06.443Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/m9HgNb/DASPLAYER_01.png-w900" alt="DASPLAYER 01"> 以前看美剧即便有一些「和谐的」删减，但还是可以在一些正版的在线资源可以看。但从个人观点来说，随着在线观看美剧的资源进一步被收紧，必然导致美剧的下载需求增加，从而带动本地观看的需求。<br><a id="more"></a><br>这样的情况很有可能带来一些更不好的消息：</p><ul><li>提供美剧资源的网站将会被进一步限制；</li><li>百度网盘会员费用可能会涨价；</li><li>硬盘价格可能会上涨；</li><li>大容量手机、平板设备的需求（或价格）上涨；</li></ul><p>为什么选择使用电视来看美剧（这似乎是个有点蠢的问题）……</p><ul><li>更大的屏幕带来更好的观感；</li><li>观看过程中尽可能沉浸在剧中，被打扰、中断的概率被最小化；</li><li>智能电视（盒）越来越普及；</li><li>可以一边刷剧一边微信、淘宝、微博等；</li></ul><p>功能设计</p><ul><li>播放本地存储设备中的多媒体文件，包括优盘、存储卡、移动硬盘、本地 NAS 等；</li><li>播放云端服务上的多媒体文件，例如百度网盘等；</li><li>多媒体文件信息的智能提取、展示，获取如「剧名/电影名」、「年代」、「季/集」、甚至影剧类型等信息，还能通过联网获取影剧的豆瓣、IMDb 评分等信息；</li><li>其他还没想到的功能；</li></ul><p><img src="http://preview.ibb.co/gwf1Nb/DASPLAYER_02.png" alt="DASPLAYER 02"><br><img src="http://preview.ibb.co/fXvbNb/DASPLAYER_03.png" alt="DASPLAYER 03"><br><img src="http://preview.ibb.co/jbhO2b/DASPLAYER_04.png" alt="DASPLAYER 04"><br><img src="http://preview.ibb.co/jWQzaw/DASPLAYER_05.png" alt="DASPLAYER 05"><br><img src="http://preview.ibb.co/j1seaw/DASPLAYER_06.png" alt="DASPLAYER 06"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/m9HgNb/DASPLAYER_01.png-w900" alt="DASPLAYER 01"> 以前看美剧即便有一些「和谐的」删减，但还是可以在一些正版的在线资源可以看。但从个人观点来说，随着在线观看美剧的资源进一步被收紧，必然导致美剧的下载需求增加，从而带动本地观看的需求。<br><a id="more"></a><br>这样的情况很有可能带来一些更不好的消息：</p><ul><li>提供美剧资源的网站将会被进一步限制；</li><li>百度网盘会员费用可能会涨价；</li><li>硬盘价格可能会上涨；</li><li>大容量手机、平板设备的需求（或价格）上涨；</li></ul><p>为什么选择使用电视来看美剧（这似乎是个有点蠢的问题）……</p><ul><li>更大的屏幕带来更好的观感；</li><li>观看过程中尽可能沉浸在剧中，被打扰、中断的概率被最小化；</li><li>智能电视（盒）越来越普及；</li><li>可以一边刷剧一边微信、淘宝、微博等；</li></ul><p>功能设计</p><ul><li>播放本地存储设备中的多媒体文件，包括优盘、存储卡、移动硬盘、本地 NAS 等；</li><li>播放云端服务上的多媒体文件，例如百度网盘等；</li><li>多媒体文件信息的智能提取、展示，获取如「剧名/电影名」、「年代」、「季/集」、甚至影剧类型等信息，还能通过联网获取影剧的豆瓣、IMDb 评分等信息；</li><li>其他还没想到的功能；</li></ul><p><img src="http://image.ibb.co/dqUvhb/DASPLAYER_02.png" alt="DASPLAYER 02"><br><img src="http://image.ibb.co/dTSCvw/DASPLAYER_03.png" alt="DASPLAYER 03"><br><img src="http://image.ibb.co/cQLAhb/DASPLAYER_04.png" alt="DASPLAYER 04"><br><img src="http://image.ibb.co/bY1GNb/DASPLAYER_05.png" alt="DASPLAYER 05"><br><img src="http://image.ibb.co/iEZsvw/DASPLAYER_06.png" alt="DASPLAYER 06"></p>]]></content>
     
     <summary type="html">
     
@@ -47,13 +47,13 @@
     <link href="http://stage14.design3r.net/2017/11/01/hello-world/"/>
     <id>http://stage14.design3r.net/2017/11/01/hello-world/</id>
     <published>2017-11-01T03:19:00.000Z</published>
-    <updated>2017-11-06T23:01:46.682Z</updated>
+    <updated>2017-11-07T02:37:54.430Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://preview.ibb.co/hLSjsb/hello_again_NOTE.jpg" alt="Hello again, blog"> 重新开始写。Hexo + GitHub Pages 差不多搞定，图片存储估计会使用七牛云，之前就先用临时的凑合吧。<br><a id="more"></a><br><img src="http://preview.ibb.co/dQkXdG/DAS_keyboard_RED.jpg" alt="DAS KEYBOARD RED"> 之后应该也会把在网易 LOFTER 的东西更新起来，虽然不会像之前更新那么勤快（资讯类每月更新 150+ 篇内容），但是在自己喜欢的羽毛球、跑步以及其他感兴趣的资讯会保持一定的更新频率。<br>作为一种记录，算是一种督促，督促自己跟上趋势、时常总结和反省。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/mSMYkw/hello_again_NOTE.jpg" alt="Hello again, blog"> 重新开始写。Hexo + GitHub Pages 差不多搞定，图片存储估计会使用七牛云，之前就先用临时的凑合吧。<br><a id="more"></a><br><img src="http://image.ibb.co/jpqyJG/DAS_keyboard_RED.jpg" alt="DAS KEYBOARD RED"> 之后应该也会把在网易 LOFTER 的东西更新起来，虽然不会像之前更新那么勤快（资讯类每月更新 150+ 篇内容），但是在自己喜欢的羽毛球、跑步以及其他感兴趣的资讯会保持一定的更新频率。<br>作为一种记录，算是一种督促，督促自己跟上趋势、时常总结和反省。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://preview.ibb.co/hLSjsb/hello_again_NOTE.jpg&quot; alt=&quot;Hello again, blog&quot;&gt; 重新开始写。Hexo + GitHub Pages 差不多搞定，图片存储估计会使用七牛云，之前就先用临时的凑合吧。&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;http://image.ibb.co/mSMYkw/hello_again_NOTE.jpg&quot; alt=&quot;Hello again, blog&quot;&gt; 重新开始写。Hexo + GitHub Pages 差不多搞定，图片存储估计会使用七牛云，之前就先用临时的凑合吧。&lt;br&gt;
     
     </summary>
     
