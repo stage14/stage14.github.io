@@ -54,7 +54,7 @@ article .article-top-meta {
   margin: 1rem 0;
 }
 article .article-top-meta span {
-  margin: 0 0.5rem;
+  margin: 1.5rem 0.5rem 0 0.5rem;
   padding: 0.2rem 0.2rem;
   background-color: #f03838;
 }
