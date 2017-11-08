@@ -24,8 +24,8 @@ article blockquote {
 article .article-title {
   position: relative;
   color: #212121;
-  font-size: 3.6rem;
-  font-weight: 300;
+  font-size: 4.2rem;
+  font-weight: 400;
   line-height: 1;
   text-align: center;
   margin: 0;
@@ -42,7 +42,7 @@ article .article-title a span {
   box-shadow: inset 0 -2px 0 rgba(240,56,56,0);
 }
 article .article-title a:hover {
-  color: #212121;
+  color: #f03838;
 }
 article .article-title a:hover span {
   box-shadow: inset 0 -2px 0 rgba(240,56,56,0.4);
@@ -55,7 +55,8 @@ article .article-top-meta {
   margin: 1rem 0;
 }
 article .article-top-meta span {
-  margin: 0 0.5rem;
+  margin: 0.5rem 1.5rem;
+  background-color: #f03838;
 }
 article .article-top-meta a {
   color: #9e9e9e;
@@ -64,7 +65,7 @@ article .article-top-meta a:hover {
   color: #f03838;
 }
 article .article-top-meta a time {
-  font-style: italic;
+  font-style: normal;
 }
 article .article-excerpt,
 article .article-content,
