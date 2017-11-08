@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stage14.design3r.net/"/>
-  <updated>2017-11-08T06:18:15.368Z</updated>
+  <updated>2017-11-08T23:45:30.549Z</updated>
   <id>http://stage14.design3r.net/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>恼人的 iOS 11.2 beta 1 弹窗问题</title>
+    <link href="http://stage14.design3r.net/2017/11/07/Annoying-Pop-up-Issues-with-iOS-11-2-beta-1/"/>
+    <id>http://stage14.design3r.net/2017/11/07/Annoying-Pop-up-Issues-with-iOS-11-2-beta-1/</id>
+    <published>2017-11-07T09:19:00.000Z</published>
+    <updated>2017-11-08T23:45:30.549Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/bXt6sb/pop_up_issues_with_i_OS_11_2_beta_1.png" alt="Pop-up Issues with iOS 11.2 beta 1"> 作为一个 beta 粉，每次追赶升级那是必然的，好在苹果之前的 beta 都还比较给力，释放出来的更新也都不会有影响使用的大问题，不过这次 iOS 11 就不一样的……</p><p>像之前更新的某些版本，让手机耗电水平已经接近笔记本，甚至在打开应用商店更新应用或者升级系统的时候，电池电量以肉眼可见的速度往下掉，让你不得不接着充电线——不然升完级手机就有可能没电了。看着一边充电一边升级的手机，脑子里时不时会冒出小学时学的某类型数学题——往一个水池里放水的同时排水，请问多长时间可以将水池装满。</p><p>耗电的问题也就忍了，一直到升级到 iOS 11.2 beta 1。一个每次解锁屏幕或者向上划走通知都会跳出来的升级提示弹窗，已经完全影响到手机的日常使用。虽然不是人人都遇到的问题，但是 reddit 和苹果开发者论坛上都有不少人遇到。这个恼人的问题无论是重启手机还是重装配置文件，都无法完全解决问题，直到下一个更新版本来到的前两天，有人在苹果开发者论坛发现了解决方案，有点好笑又有点无语。</p><blockquote><p>Had same issue for days, tried delete and reinstall the profile, worked for few hours and came back.<br>Just found one method which actually worked: go to settings-display &amp; brightness-view- select zoomed<br>Works for now, even after switched back to standard mode, will see if it will last long.<br>Hope this will help someone.<br>–<a href="https://forums.developer.apple.com/thread/91092#275421" target="_blank" rel="external">CaiHX</a></p></blockquote><p>不管怎么说，这个真的解决了我手机上的弹窗问题。</p><p>Update：好好用了两天之后，beta 2 的到来让我竟然是先查看论坛上是不是有人和我一样「没有完全根治」……😂😂</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://image.ibb.co/bXt6sb/pop_up_issues_with_i_OS_11_2_beta_1.png&quot; alt=&quot;Pop-up Issues with iOS 11.2 beta 1&quot;&gt; 作为一个 beta 粉，每次追赶升
+      
+    
+    </summary>
+    
+      <category term="Apple" scheme="http://stage14.design3r.net/categories/Apple/"/>
+    
+    
+      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
+    
+      <category term="iPhone" scheme="http://stage14.design3r.net/tags/iPhone/"/>
+    
+  </entry>
   
   <entry>
     <title>泰禾·2017 年中国羽毛球公开赛</title>
