@@ -440,7 +440,7 @@ a {
   text-decoration: none;
 }
 body {
-  background-color: #f7f7f7;
+  background-color: #fff;
   font-family: "PingFang SC", "Myriad Pro", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -475,7 +475,7 @@ header .site-branding .site-title {
 header .site-branding .site-title a {
   display: inline-block;
   color: #fff;
-  font-weight: 300;
+  font-weight: 700;
   background-color: #f03838;
   line-height: 3rem;
   height: 3rem;
