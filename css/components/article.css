@@ -54,14 +54,14 @@ article .article-top-meta {
   margin: 1rem 0;
 }
 article .article-top-meta span {
-  margin: 1.5rem 0.5rem 0 0.5rem;
-  padding: 0.2rem 0.6rem;
+  margin: 2rem 0.5rem 0 0.5rem;
+  padding: 0.2rem 0.8rem;
   background-color: #f03838;
 }
 article .article-top-meta a {
   color: #fff;
   font-family: "Open Sans", arial, sans-serif;
-  font-weight: 600;
+  font-weight: 700;
 }
 article .article-top-meta a:hover {
   color: #fff;
