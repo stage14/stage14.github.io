@@ -569,8 +569,8 @@ article .article-top-meta {
   margin: 1rem 0;
 }
 article .article-top-meta span {
-  margin: 0.5rem 1.5rem;
-  padding: 1.2rem 2.4rem;
+  margin: 1rem 0.5rem;
+  padding: 0.5rem 1.2rem;
   background-color: #f03838;
 }
 article .article-top-meta a {
