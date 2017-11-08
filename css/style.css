@@ -826,14 +826,6 @@ article .categories-cloud > span > span .archive-post {
   text-align: left;
   margin: 2em auto;
 }
-article .categories-cloud > span > span .archive-post .archive-title {
-  font-size: 3em;
-  font-weight: 400;
-  line-height: 1;
-  position: relative;
-  color: #212121;
-  margin: 0;
-}
 article .archive-categories,
 article .archive-categories > spannot(last-child) {
   margin-right: 3rem;
