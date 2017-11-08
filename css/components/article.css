@@ -37,7 +37,7 @@ article .article-title a {
 }
 article .article-title a span {
   padding-bottom: 9px;
-  -webkit-transition: 0.15s;
+  -webkit-transition: 0.25s;
   transition: 0.15s;
 }
 article .article-title a:hover {
