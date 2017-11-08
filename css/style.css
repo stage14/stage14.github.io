@@ -575,9 +575,10 @@ article .article-top-meta span {
 }
 article .article-top-meta a {
   color: #fff;
+  font-family: "Open Sans", arial, sans-serif;
 }
 article .article-top-meta a:hover {
-  color: #f03838;
+  color: #fff;
 }
 article .article-top-meta a time {
   font-style: normal;
