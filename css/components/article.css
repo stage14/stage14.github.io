@@ -36,7 +36,7 @@ article .article-title a {
   color: #212121;
 }
 article .article-title a span {
-  padding-bottom: 3px;
+  padding-bottom: 6px;
   -webkit-transition: 0.15s;
   transition: 0.15s;
   box-shadow: inset 0 -2px 0 rgba(240,56,56,0);
@@ -45,7 +45,7 @@ article .article-title a:hover {
   color: #f03838;
 }
 article .article-title a:hover span {
-  box-shadow: inset 0 -2px 0 rgba(240,56,56,0.4);
+  box-shadow: inset 0 -2px 0 rgba(240,156,156,0.5);
 }
 article .article-top-meta {
   position: relative;
@@ -55,7 +55,7 @@ article .article-top-meta {
   margin: 1rem 0;
 }
 article .article-top-meta span {
-  margin: 1rem 0.5rem;
+  margin: 0 0.5rem;
   padding: 0.5rem 1.2rem;
   background-color: #f03838;
 }
