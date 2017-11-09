@@ -34,7 +34,6 @@ header .site-branding .site-description {
 header .site-navigation {
   text-align: center;
   font-family: "Open Sans", arial, sans-serif;
-  color: #000;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -51,6 +50,7 @@ header .site-navigation ul li {
 header .site-navigation ul li a {
   display: block;
   font-size: 1.6rem;
+  color: #000;
   line-height: 2rem;
   padding: 0 1rem;
 }
