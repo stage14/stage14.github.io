@@ -511,6 +511,12 @@ header .site-navigation ul li a {
   font-size: 1.6rem;
   line-height: 2rem;
   padding: 0 1rem;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+header .site-navigation ul li a:hover {
+  color: #f03838;
 }
 article {
   position: relative;
