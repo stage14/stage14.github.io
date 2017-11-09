@@ -16,9 +16,10 @@ article:not(:first-child):before {
   margin-left: -75px;
 }
 article blockquote {
-  margin: 6rem 2rem;
-  padding-left: 15px;
-  line-height: 2rem;
+  margin: 2rem 3rem;
+  padding-left: 12px;
+  font-family: "Open Sans", "PingFang SC", "Myriad Pro", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  line-height: 1.6rem;
   border-left: 4px solid #f03838;
 }
 article .article-title {
