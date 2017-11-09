@@ -494,6 +494,10 @@ header .site-branding .site-description {
 }
 header .site-navigation {
   text-align: center;
+  font-family: "Open Sans", arial, sans-serif;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 600;
 }
 header .site-navigation ul {
   list-style: none;
@@ -507,13 +511,9 @@ header .site-navigation ul li {
 }
 header .site-navigation ul li a {
   display: block;
-  color: #f03838;
   font-size: 1.6rem;
   line-height: 2rem;
   padding: 0 1rem;
-  color: #000;
-  text-transform: uppercase;
-  font-weight: 600;
 }
 header .site-navigation ul li a:hover {
   color: #f03838;
