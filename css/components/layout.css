@@ -22,14 +22,14 @@ body {
   overflow-x: hidden;
 }
 body .blog {
-  max-width: 1170px;
+  max-width: 1240px;
   min-height: 100vh;
   background-color: #fff;
   margin: 0 auto;
 }
 body .blog .content {
   box-sizing: border-box;
-  max-width: 900px;
+  max-width: 960px;
   width: 100%;
   padding: 80px 10px 10px;
   margin: 0 auto;
