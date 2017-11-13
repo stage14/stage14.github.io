@@ -550,7 +550,7 @@ article .article-title {
   font-weight: 600;
   line-height: 1;
   text-align: center;
-  margin: 0 0 1rem 0;
+  margin: 0 0 2rem 0;
   padding: 0 2rem;
 }
 article .article-title a {
@@ -560,7 +560,7 @@ article .article-title a {
 article .article-title a span {
   padding-bottom: 9px;
   -webkit-transition: 0.25s;
-  transition: 0.15s;
+  transition: 0.25s;
 }
 article .article-title a:hover {
   color: #f03838;
