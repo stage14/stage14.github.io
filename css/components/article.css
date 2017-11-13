@@ -109,11 +109,12 @@ article .article-footer .article-meta > span > span {
   vertical-align: middle;
 }
 article .article-footer .article-meta {
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   color: #fff;
 }
 article .article-footer .article-meta a {
   color: #000;
+  padding-top: 5px;
 }
 article .article-footer .article-meta a:hover {
   color: #f03838;
@@ -124,11 +125,11 @@ article .article-footer .article-meta i {
   margin-right: 0.5rem;
 }
 article .article-footer .post-tags a:before {
-  content: "#";
+  content: "";
 }
 article .article-footer .post-tags a:not(:last-of-type):after {
   content: ",";
-  padding-right: 5px;
+  padding-right: 10px;
 }
 article code {
   padding: 2px 4px;

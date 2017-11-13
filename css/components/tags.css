@@ -51,10 +51,10 @@ article .tags-cloud .post-tags {
 }
 article .archive-tags .post-tags a:before,
 article .tags-cloud .post-tags a:before {
-  content: "#";
+  content: "";
 }
 article .archive-tags .post-tags a:not(:last-of-type):after,
 article .tags-cloud .post-tags a:not(:last-of-type):after {
   content: ",";
-  padding-right: 5px;
+  padding-right: 10px;
 }

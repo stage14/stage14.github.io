@@ -88,12 +88,12 @@ article .archive-categories .post-categories a:before,
 .archive .archive-categories .post-categories a:before,
 article .categories-cloud .post-categories a:before,
 .archive .categories-cloud .post-categories a:before {
-  content: "#";
+  content: "";
 }
 article .archive-categories .post-categories a:not(:last-of-type):after,
 .archive .archive-categories .post-categories a:not(:last-of-type):after,
 article .categories-cloud .post-categories a:not(:last-of-type):after,
 .archive .categories-cloud .post-categories a:not(:last-of-type):after {
   content: ",";
-  padding-right: 5px;
+  padding-right: 10px;
 }

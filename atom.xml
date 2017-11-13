@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stage14.design3r.net/"/>
-  <updated>2017-11-13T05:48:45.833Z</updated>
+  <updated>2017-11-13T18:15:31.455Z</updated>
   <id>http://stage14.design3r.net/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://stage14.design3r.net/2017/11/09/Boostnote-a-new-choice-of-Markdown-Editor/"/>
     <id>http://stage14.design3r.net/2017/11/09/Boostnote-a-new-choice-of-Markdown-Editor/</id>
     <published>2017-11-09T08:04:45.000Z</published>
-    <updated>2017-11-13T05:48:45.833Z</updated>
+    <updated>2017-11-13T18:15:31.455Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/c3vb8G/My_Keyboard_Layout_2.jpg" alt="My Keyboard layout 2"></p><p>一如我们「听过很多人生道理，依然过不好一生」，我们看过很多评测，依然选不出一个自己喜欢的 Markdown 编辑器。</p><p>相对于其他工具，Markdown 编辑器对我来说并不是常用的，目前用得比较多的也就是 Bear 和 MWeb Lite。Bear 的颜值已经得到用户的认可，就算是是免费使用功能也是足够我使用；国产的 MWeb 绝对是一个功能极其强大的存在，甚至是很多人写 blog 的御用 Markdown 编辑器，而 Lite 免费版本也是完全够我平常使用。偶遇 Boostnote 并开始试用，一方面有好奇心驱使，一方面是简单、利落的界面。<br><a id="more"></a></p><p><img src="http://image.ibb.co/mne0kw/Boostnote_1.png" alt="Boostnote 1"></p><blockquote><p>Boostnote is an Open source note-taking app for programmers.</p></blockquote><p>官方将 Boostnote 定位在一个给程序员使用的工具，除去最重要的 Markdown 编辑功能，代码片段管理似乎也是一把好手，不过能否怼 Quiver 就留给程序员去判断了。</p><p><img src="http://image.ibb.co/m92aJG/Boostnote_2.png" alt="Boostnote 2"></p><p><img src="http://image.ibb.co/n1AAkw/Boostnote_5.gif" alt="Boostnote 5"></p><p>试用下来之后有两个地方让我敲字的时候有愉悦感，一个是半全屏模式，右上角一个小按钮开关就可以让几乎整个界面变成一张「稿纸」，可以专注的敲字上；另外一个就是「Quick Preview」，全心码字的时候可以锁掉这个功能，基本成文之后可以解锁这个快速预览功能，这样对文章修改和调整的效率有着近乎质的提高。这篇文字还没码完，我就有点回不去 Atom 那「Control+Shift+M」的「快速预览」了 😂😂</p><p>像标签管理、个性化界面等功能虽然比较方便，但是并不十分完善；另外还有不少「程序员友好」功能，尝试下来也并非十分强健，是不是真的够程序员小伙伴用就不得而知。</p><p><img src="http://image.ibb.co/gkSHFw/Boostnote_4.gif" alt="Boostnote 4"></p><p>Boostnote 还支持 Dropbox、GoogleDrive 等云服务，可以实现桌面版本和移动端版本的同步——是的，还有 iOS 和 Android 版本；Android 版本我不知道，但是 iOS 版本目前真的很弱鸡，iPad 版本上面新建文件的按钮都没有局中对齐……</p><p>关于 Boostnote 更多信息：</p><ul><li>Download now: <a href="https://boostnote.io/" target="_blank" rel="external">https://boostnote.io/</a></li><li>Repository: <a href="https://github.com/BoostIO/Boostnote" target="_blank" rel="external">https://github.com/BoostIO/Boostnote</a></li><li>Send feedback: <a href="https://github.com/BoostIO/Boostnote/issues" target="_blank" rel="external">https://github.com/BoostIO/Boostnote/issues</a></li><li>Donation: <a href="https://opencollective.com/boostnoteio" target="_blank" rel="external">https://opencollective.com/boostnoteio</a></li><li>Twitter: <a href="https://twitter.com/boostnoteapp" target="_blank" rel="external">https://twitter.com/boostnoteapp</a></li><li>Evernote2Boostnote 搬迁工具：<a href="https://medium.com/boostnote/convert-data-from-evernote-to-boostnote-299a141fc74" target="_blank" rel="external">https://medium.com/boostnote/convert-data-from-evernote-to-boostnote-299a141fc74</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ooo.0o0.ooo/2017/11/14/5a09e0e95af88.jpg" alt="My Keyboard layout 2"></p><p>一如我们「听过很多人生道理，依然过不好一生」，我们看过很多评测，依然选不出一个自己喜欢的 Markdown 编辑器。</p><p>相对于其他工具，Markdown 编辑器对我来说并不是常用的，目前用得比较多的也就是 Bear 和 MWeb Lite。Bear 的颜值已经得到用户的认可，就算是是免费使用功能也是足够我使用；国产的 MWeb 绝对是一个功能极其强大的存在，甚至是很多人写 blog 的御用 Markdown 编辑器，而 Lite 免费版本也是完全够我平常使用。偶遇 Boostnote 并开始试用，一方面有好奇心驱使，一方面是简单、利落的界面。<br><a id="more"></a></p><p><img src="https://ooo.0o0.ooo/2017/11/14/5a09e0a1242f2.png" alt="Boostnote 1"></p><blockquote><p>Boostnote is an Open source note-taking app for programmers.</p></blockquote><p>官方将 Boostnote 定位在一个给程序员使用的工具，除去最重要的 Markdown 编辑功能，代码片段管理似乎也是一把好手，不过能否怼 Quiver 就留给程序员去判断了。</p><p><img src="https://ooo.0o0.ooo/2017/11/14/5a09e0a10afd0.png" alt="Boostnote 2"></p><p><img src="https://ooo.0o0.ooo/2017/11/14/5a09e0aa5dcf2.gif" alt="Boostnote 5"></p><p>试用下来之后有两个地方让我敲字的时候有愉悦感，一个是半全屏模式，右上角一个小按钮开关就可以让几乎整个界面变成一张「稿纸」，可以专注的敲字上；另外一个就是「Quick Preview」，全心码字的时候可以锁掉这个功能，基本成文之后可以解锁这个快速预览功能，这样对文章修改和调整的效率有着近乎质的提高。这篇文字还没码完，我就有点回不去 Atom 那「Control+Shift+M」的「快速预览」了 😂😂</p><p>像标签管理、个性化界面等功能虽然比较方便，但是并不十分完善；另外还有不少「程序员友好」功能，尝试下来也并非十分强健，是不是真的够程序员小伙伴用就不得而知。</p><p><img src="https://ooo.0o0.ooo/2017/11/14/5a09e0a392847.gif" alt="Boostnote 4"></p><p>Boostnote 还支持 Dropbox、GoogleDrive 等云服务，可以实现桌面版本和移动端版本的同步——是的，还有 iOS 和 Android 版本；Android 版本我不知道，但是 iOS 版本目前真的很弱鸡，iPad 版本上面新建文件的按钮都没有局中对齐……</p><p>关于 Boostnote 更多信息：</p><ul><li>Download now: <a href="https://boostnote.io/" target="_blank" rel="external">https://boostnote.io/</a></li><li>Repository: <a href="https://github.com/BoostIO/Boostnote" target="_blank" rel="external">https://github.com/BoostIO/Boostnote</a></li><li>Send feedback: <a href="https://github.com/BoostIO/Boostnote/issues" target="_blank" rel="external">https://github.com/BoostIO/Boostnote/issues</a></li><li>Donation: <a href="https://opencollective.com/boostnoteio" target="_blank" rel="external">https://opencollective.com/boostnoteio</a></li><li>Twitter: <a href="https://twitter.com/boostnoteapp" target="_blank" rel="external">https://twitter.com/boostnoteapp</a></li><li>Evernote2Boostnote 搬迁工具：<a href="https://medium.com/boostnote/convert-data-from-evernote-to-boostnote-299a141fc74" target="_blank" rel="external">https://medium.com/boostnote/convert-data-from-evernote-to-boostnote-299a141fc74</a></li></ul>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://image.ibb.co/c3vb8G/My_Keyboard_Layout_2.jpg&quot; alt=&quot;My Keyboard layout 2&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/11/14/5a09e0e95af88.jpg&quot; alt=&quot;My Keyboard layout 2&quot;&gt;&lt;/p&gt;
 &lt;p&gt;一如我们「听过很多人生道理，依然过不好一生」，我们看过很多评测，依然选不出一个自己喜欢的 Markdown 编辑器。&lt;/p&gt;
 &lt;p&gt;相对于其他工具，Markdown 编辑器对我来说并不是常用的，目前用得比较多的也就是 Bear 和 MWeb Lite。Bear 的颜值已经得到用户的认可，就算是是免费使用功能也是足够我使用；国产的 MWeb 绝对是一个功能极其强大的存在，甚至是很多人写 blog 的御用 Markdown 编辑器，而 Lite 免费版本也是完全够我平常使用。偶遇 Boostnote 并开始试用，一方面有好奇心驱使，一方面是简单、利落的界面。&lt;br&gt;
     
@@ -49,15 +49,15 @@
     <link href="http://stage14.design3r.net/2017/11/07/Annoying-Pop-up-Issues-with-iOS-11-2-beta-1/"/>
     <id>http://stage14.design3r.net/2017/11/07/Annoying-Pop-up-Issues-with-iOS-11-2-beta-1/</id>
     <published>2017-11-07T09:19:00.000Z</published>
-    <updated>2017-11-09T00:25:53.023Z</updated>
+    <updated>2017-11-13T18:11:45.479Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/bXt6sb/pop_up_issues_with_i_OS_11_2_beta_1.png" alt="Pop-up Issues with iOS 11.2 beta 1"> 作为一个 beta 粉，每次追赶升级那是必然的，好在苹果之前的 beta 都还比较给力，释放出来的更新也都不会有影响使用的大问题，不过这次 iOS 11 就不一样的……</p><p>像之前更新的某些版本，让手机耗电水平已经接近笔记本，甚至在打开应用商店更新应用或者升级系统的时候，电池电量以肉眼可见的速度往下掉，让你不得不接着充电线——不然升完级手机就有可能没电了。看着一边充电一边升级的手机，脑子里时不时会冒出小学时学的某类型数学题——往一个水池里放水的同时排水，请问多长时间可以将水池装满。</p><p>耗电的问题也就忍了，一直到升级到 iOS 11.2 beta 1。一个每次解锁屏幕或者向上划走通知都会跳出来的升级提示弹窗，已经完全影响到手机的日常使用。虽然不是人人都遇到的问题，但是 reddit 和苹果开发者论坛上都有不少人遇到。这个恼人的问题无论是重启手机还是重装配置文件，都无法完全解决问题，直到下一个更新版本来到的前两天，有人在苹果开发者论坛发现了解决方案，有点好笑又有点无语。</p><blockquote><p>Had same issue for days, tried delete and reinstall the profile, worked for few hours and came back.<br>Just found one method which actually worked: go to <strong>Settings(设置)</strong> - <strong>Display &amp; Brightness(显示与亮度)</strong> - <strong>View(显示模式)</strong> - select <strong>Zoomed(放大)</strong><br>Works for now, even after switched back to standard mode, will see if it will last long.<br>Hope this will help someone.<br>–<a href="https://forums.developer.apple.com/thread/91092#275421" target="_blank" rel="external">CaiHX</a></p></blockquote><p>不管怎么说，这个真的解决了我手机上的弹窗问题。</p><p>Update：好好用了两天之后，beta 2 的到来让我竟然是先查看论坛上是不是有人和我一样「没有完全根治」……😂😂</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ooo.0o0.ooo/2017/11/14/5a09e04e218ce.png" alt="Pop-up Issues with iOS 11.2 beta 1"> 作为一个 beta 粉，每次追赶升级那是必然的，好在苹果之前的 beta 都还比较给力，释放出来的更新也都不会有影响使用的大问题，不过这次 iOS 11 就不一样的……</p><p>像之前更新的某些版本，让手机耗电水平已经接近笔记本，甚至在打开应用商店更新应用或者升级系统的时候，电池电量以肉眼可见的速度往下掉，让你不得不接着充电线——不然升完级手机就有可能没电了。看着一边充电一边升级的手机，脑子里时不时会冒出小学时学的某类型数学题——往一个水池里放水的同时排水，请问多长时间可以将水池装满。</p><p>耗电的问题也就忍了，一直到升级到 iOS 11.2 beta 1。一个每次解锁屏幕或者向上划走通知都会跳出来的升级提示弹窗，已经完全影响到手机的日常使用。虽然不是人人都遇到的问题，但是 reddit 和苹果开发者论坛上都有不少人遇到。这个恼人的问题无论是重启手机还是重装配置文件，都无法完全解决问题，直到下一个更新版本来到的前两天，有人在苹果开发者论坛发现了解决方案，有点好笑又有点无语。</p><blockquote><p>Had same issue for days, tried delete and reinstall the profile, worked for few hours and came back.<br>Just found one method which actually worked: go to <strong>Settings(设置)</strong> - <strong>Display &amp; Brightness(显示与亮度)</strong> - <strong>View(显示模式)</strong> - select <strong>Zoomed(放大)</strong><br>Works for now, even after switched back to standard mode, will see if it will last long.<br>Hope this will help someone.<br>–<a href="https://forums.developer.apple.com/thread/91092#275421" target="_blank" rel="external">CaiHX</a></p></blockquote><p>不管怎么说，这个真的解决了我手机上的弹窗问题。</p><p>Update：好好用了两天之后，beta 2 的到来让我竟然是先查看论坛上是不是有人和我一样「没有完全根治」……😂😂</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;http://image.ibb.co/bXt6sb/pop_up_issues_with_i_OS_11_2_beta_1.png&quot; alt=&quot;Pop-up Issues with iOS 11.2 beta 1&quot;&gt; 作为一个 beta 粉，每次追赶升
+        &lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/11/14/5a09e04e218ce.png&quot; alt=&quot;Pop-up Issues with iOS 11.2 beta 1&quot;&gt; 作为一个 beta 粉，每次追赶升级那是必然的，好在苹果之前的 bet
       
     
     </summary>
@@ -76,13 +76,13 @@
     <link href="http://stage14.design3r.net/2017/11/06/2017-BWF-TAHOE-China-Open/"/>
     <id>http://stage14.design3r.net/2017/11/06/2017-BWF-TAHOE-China-Open/</id>
     <published>2017-11-06T03:19:00.000Z</published>
-    <updated>2017-11-09T04:06:48.296Z</updated>
+    <updated>2017-11-13T18:09:42.691Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/nusOkw/BWF_coming_soon.jpg" alt="BWF COMING SOON"></p><p>总奖金为 70 万美元的首要超级系列赛，中国羽毛球公开赛将于北京时间 11 月 14 日上午十点在福建省福州市的海峡奥林匹克中心综合体育馆开拍。<br><a id="more"></a></p><p>各单项种子选手（加粗显示为卫冕冠军）：</p><p>男子单打</p><ol><li>维克托·阿萨尔森（Viktor Axelsen）</li><li>孙完虎（Son Wan Ho）</li><li>林丹（Lin Dan）</li><li>石宇奇（Shi Yuqi）</li><li>周天成（Chou Tien Chen）</li><li>谌龙（Chen Long）</li><li>李宗伟（Lee Chong Wei）</li><li>基达姆比·斯里坎特（Kidambi Srikanth）</li></ol><p>女子单打</p><ol><li>戴资颖（Tai Tzu Ying）</li><li><strong>普萨拉·文卡塔·辛德胡（Pusarla V. Sindhu）</strong></li><li>成池铉（Sung Ji Hyun）</li><li>卡罗琳娜·马琳（Carolina Marin）</li><li>山口茜（Akane Yamaguchi）</li><li>奥园希望（Nozomi Okuhara）</li><li>何冰娇（He Bingjiao）</li><li>拉查诺·因达农（Ratchanok Intanon）</li></ol><p>男子双打</p><ol><li><strong>吉德翁·马库斯·费尔纳尔迪/凯文·桑加亚·苏卡穆约（Marcus Fernaldi Gideon/Kevin Sanjaya Sukamuljo）</strong></li><li>玛蒂亚斯·鲍伊/卡斯腾·摩根森（Mathias Boe/Carsten Mogensen）</li><li>嘉村健士/园田啟悟（Takeshi Kamura/Keigo Sonoda）</li><li>李俊慧/刘雨辰（Li Junhui/Liu Yuchen）</li><li>刘成/张楠（Liu Cheng/Zhang Nan）</li><li>马德斯·康拉德-彼德森/马德斯·皮勒尔·科尔丁（Mads Conrad-Petersen/Mads Pieler Kolding）</li><li>里奇·卡兰达·苏华迪/安加·普拉塔玛（Ricky Karandasuwardi/Angga Pratama）</li><li>弗拉基米尔·伊万诺夫/伊万·索佐诺夫（Vladimir Ivanov/Ivan Sozonov）</li></ol><p>女子双打</p><ol><li>松友美佐纪/高桥礼华（Misaki Matsutomo/Ayaka Takahashi）</li><li>陈清晨/贾一凡（Chen Qingchen/Jia Yifan）</li><li>卡米拉·吕特·尤尔/克里斯汀娜·彼德森（Kamilla Rytter Juhl/Christinna Pedersen）</li><li>福岛由纪/广田彩花（Yuki Fukushima/Sayaka Hirota）</li><li>张艺娜/郑景银（Chang Ye Na/Jung Kyung Eun）</li><li>田中志穗/米元小春（Shiho Tanaka/Koharu Yonemoto）</li><li>福万尚子/與猶胡桃（Naoko Fukuman/Kurumi Yonao）</li><li>金慧麟/李绍希（Hye Rin Kim/Lee So Hee）</li></ol><p>混合双打</p><ol><li>普拉文·乔丹/戴比·苏珊托（Praveen Jordan/Debby Susanto）</li><li><strong>通托维·艾哈迈德/利利亚纳·纳西尔（Tontowi Ahmad/Liliyana Natsir）</strong></li><li>克里斯·爱德考克/加布里·爱德考克（Chris Adcock/Gabrielle Adcock）</li><li>王懿律/黄东萍（Wang Yilyu/Huang Dongping）</li><li>郑思维/黄雅琼 （Zheng Siwei/Huang Yaqiong）</li><li>鲁恺/汤金华（Lu Kai/Tang Jinhua）</li><li>徐承宰/金荷娜（Seung Jae Seo/Kim Ha Na）</li><li>陈建明/赖佩君（Tan Kian Meng/Lai Pei Jing）</li></ol><p>去年的中国公开赛国羽就已经颗粒无收，今年各个单项更是艰难。</p><p>男双虽然在去年里约拿了金牌，今年世锦赛上刘成/张楠也拿下第一，但是这家门口的男双斩获金牌已经是十六年前的事情，世界顶级男双的竞争依旧十分激烈。女双最近两年日、韩冒得很快，今年的八个种子被抢走六席——日本更是有四对组合……😷😷 国羽混双的局面也不是太好，世界第一组合陈清晨/郑思维正式拆对，各自牵手新搭档开始新一轮抢分，而张楠终于换了新搭档——零零后小将刘玄炫，希望能够看到新气象吧。</p><p><img src="http://image.ibb.co/kR1Tkw/Liu_Cheng_and_Zhang_Nan.jpg" alt="刘成&amp;张楠"></p><p>女单的境地大概是最惨，看今年各位种子选手的状态，摸着良心说国羽能够进四强就已经算是「好成绩」。男单显然也没有好到哪里去，小将状态起伏大，几乎没有稳定性可言；谌龙虽然拿了里约的金牌，但是超级赛已经两年没摸过第一；而林丹，则是男单项目今年唯一一块超级赛金牌……林李大战不期待（虽然十六进八就有可能碰到），不过两只老妖精的比赛是看一场少一场，新老交替正在进行，我们就看看老妖精让不让替吧。</p><p><img src="http://image.ibb.co/nmbxCb/China_Masters_2016_Lin_Dan.jpg" alt="林丹" title="林丹"></p><p>几块金牌？很可能延续法国赛的颓势颗粒无收（摊手），男双和混双还有夺金可能，男单和女双估计可以看到四强，女单……不提了……</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ooo.0o0.ooo/2017/11/14/5a09dfb9aa1cd.jpg" alt="BWF COMING SOON"></p><p>总奖金为 70 万美元的首要超级系列赛，中国羽毛球公开赛将于北京时间 11 月 14 日上午十点在福建省福州市的海峡奥林匹克中心综合体育馆开拍。<br><a id="more"></a></p><p>各单项种子选手（加粗显示为卫冕冠军）：</p><p>男子单打</p><ol><li>维克托·阿萨尔森（Viktor Axelsen）</li><li>孙完虎（Son Wan Ho）</li><li>林丹（Lin Dan）</li><li>石宇奇（Shi Yuqi）</li><li>周天成（Chou Tien Chen）</li><li>谌龙（Chen Long）</li><li>李宗伟（Lee Chong Wei）</li><li><del>基达姆比·斯里坎特（Kidambi Srikanth）</del> 退赛，罚款 $5000。</li></ol><p>女子单打</p><ol><li>戴资颖（Tai Tzu Ying）</li><li><strong>普萨拉·文卡塔·辛德胡（Pusarla V. Sindhu）</strong></li><li>成池铉（Sung Ji Hyun）</li><li>卡罗琳娜·马琳（Carolina Marin）</li><li>山口茜（Akane Yamaguchi）</li><li>奥园希望（Nozomi Okuhara）</li><li>何冰娇（He Bingjiao）</li><li>拉查诺·因达农（Ratchanok Intanon）</li></ol><p>男子双打</p><ol><li><strong>吉德翁·马库斯·费尔纳尔迪/凯文·桑加亚·苏卡穆约（Marcus Fernaldi Gideon/Kevin Sanjaya Sukamuljo）</strong></li><li>玛蒂亚斯·鲍伊/卡斯腾·摩根森（Mathias Boe/Carsten Mogensen）</li><li>嘉村健士/园田啟悟（Takeshi Kamura/Keigo Sonoda）</li><li>李俊慧/刘雨辰（Li Junhui/Liu Yuchen）</li><li>刘成/张楠（Liu Cheng/Zhang Nan）</li><li>马德斯·康拉德-彼德森/马德斯·皮勒尔·科尔丁（Mads Conrad-Petersen/Mads Pieler Kolding）</li><li>里奇·卡兰达·苏华迪/安加·普拉塔玛（Ricky Karandasuwardi/Angga Pratama）</li><li>弗拉基米尔·伊万诺夫/伊万·索佐诺夫（Vladimir Ivanov/Ivan Sozonov）</li></ol><p>女子双打</p><ol><li>松友美佐纪/高桥礼华（Misaki Matsutomo/Ayaka Takahashi）</li><li>陈清晨/贾一凡（Chen Qingchen/Jia Yifan）</li><li>卡米拉·吕特·尤尔/克里斯汀娜·彼德森（Kamilla Rytter Juhl/Christinna Pedersen）</li><li>福岛由纪/广田彩花（Yuki Fukushima/Sayaka Hirota）</li><li>张艺娜/郑景银（Chang Ye Na/Jung Kyung Eun）</li><li>田中志穗/米元小春（Shiho Tanaka/Koharu Yonemoto）</li><li>福万尚子/與猶胡桃（Naoko Fukuman/Kurumi Yonao）</li><li>金慧麟/李绍希（Hye Rin Kim/Lee So Hee）</li></ol><p>混合双打</p><ol><li>普拉文·乔丹/戴比·苏珊托（Praveen Jordan/Debby Susanto）</li><li><strong>通托维·艾哈迈德/利利亚纳·纳西尔（Tontowi Ahmad/Liliyana Natsir）</strong></li><li>克里斯·爱德考克/加布里·爱德考克（Chris Adcock/Gabrielle Adcock）</li><li>王懿律/黄东萍（Wang Yilyu/Huang Dongping）</li><li>郑思维/黄雅琼 （Zheng Siwei/Huang Yaqiong）</li><li>鲁恺/汤金华（Lu Kai/Tang Jinhua）</li><li>徐承宰/金荷娜（Seung Jae Seo/Kim Ha Na）</li><li>陈建明/赖佩君（Tan Kian Meng/Lai Pei Jing）</li></ol><p>去年的中国公开赛国羽就已经颗粒无收，今年各个单项更是艰难。</p><p>男双虽然在去年里约拿了金牌，今年世锦赛上刘成/张楠也拿下第一，但是这家门口的男双斩获金牌已经是十六年前的事情，世界顶级男双的竞争依旧十分激烈。女双最近两年日、韩冒得很快，今年的八个种子被抢走六席——日本更是有四对组合……😷😷 国羽混双的局面也不是太好，世界第一组合陈清晨/郑思维正式拆对，各自牵手新搭档开始新一轮抢分，而张楠终于换了新搭档——零零后小将刘玄炫，希望能够看到新气象吧。</p><p><img src="https://ooo.0o0.ooo/2017/11/14/5a09dfb9ce9c8.jpg" alt="刘成&amp;张楠"></p><p>女单的境地大概是最惨，看今年各位种子选手的状态，摸着良心说国羽能够进四强就已经算是「好成绩」。男单显然也没有好到哪里去，小将状态起伏大，几乎没有稳定性可言；谌龙虽然拿了里约的金牌，但是超级赛已经两年没摸过第一；而林丹，则是男单项目今年唯一一块超级赛金牌……林李大战不期待（虽然十六进八就有可能碰到），不过两只老妖精的比赛是看一场少一场，新老交替正在进行，我们就看看老妖精让不让替吧。</p><p><img src="https://ooo.0o0.ooo/2017/11/14/5a09dfba5d803.jpg" alt="林丹"></p><p>几块金牌？很可能延续法国赛的颓势颗粒无收（摊手），男双和混双还有夺金可能，男单和女双估计可以看到四强，女单……不提了……</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://image.ibb.co/nusOkw/BWF_coming_soon.jpg&quot; alt=&quot;BWF COMING SOON&quot;&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/11/14/5a09dfb9aa1cd.jpg&quot; alt=&quot;BWF COMING SOON&quot;&gt;&lt;/p&gt;
 &lt;p&gt;总奖金为 70 万美元的首要超级系列赛，中国羽毛球公开赛将于北京时间 11 月 14 日上午十点在福建省福州市的海峡奥林匹克中心综合体育馆开拍。&lt;br&gt;
     
     </summary>
@@ -101,13 +101,13 @@
     <link href="http://stage14.design3r.net/2017/11/02/DASPLAYER-for-TV/"/>
     <id>http://stage14.design3r.net/2017/11/02/DASPLAYER-for-TV/</id>
     <published>2017-11-02T03:19:00.000Z</published>
-    <updated>2017-11-07T02:36:06.443Z</updated>
+    <updated>2017-11-13T18:06:18.094Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/m9HgNb/DASPLAYER_01.png-w900" alt="DASPLAYER 01"> 以前看美剧即便有一些「和谐的」删减，但还是可以在一些正版的在线资源可以看。但从个人观点来说，随着在线观看美剧的资源进一步被收紧，必然导致美剧的下载需求增加，从而带动本地观看的需求。<br><a id="more"></a><br>这样的情况很有可能带来一些更不好的消息：</p><ul><li>提供美剧资源的网站将会被进一步限制；</li><li>百度网盘会员费用可能会涨价；</li><li>硬盘价格可能会上涨；</li><li>大容量手机、平板设备的需求（或价格）上涨；</li></ul><p>为什么选择使用电视来看美剧（这似乎是个有点蠢的问题）……</p><ul><li>更大的屏幕带来更好的观感；</li><li>观看过程中尽可能沉浸在剧中，被打扰、中断的概率被最小化；</li><li>智能电视（盒）越来越普及；</li><li>可以一边刷剧一边微信、淘宝、微博等；</li></ul><p>功能设计</p><ul><li>播放本地存储设备中的多媒体文件，包括优盘、存储卡、移动硬盘、本地 NAS 等；</li><li>播放云端服务上的多媒体文件，例如百度网盘等；</li><li>多媒体文件信息的智能提取、展示，获取如「剧名/电影名」、「年代」、「季/集」、甚至影剧类型等信息，还能通过联网获取影剧的豆瓣、IMDb 评分等信息；</li><li>其他还没想到的功能；</li></ul><p><img src="http://image.ibb.co/dqUvhb/DASPLAYER_02.png" alt="DASPLAYER 02"><br><img src="http://image.ibb.co/dTSCvw/DASPLAYER_03.png" alt="DASPLAYER 03"><br><img src="http://image.ibb.co/cQLAhb/DASPLAYER_04.png" alt="DASPLAYER 04"><br><img src="http://image.ibb.co/bY1GNb/DASPLAYER_05.png" alt="DASPLAYER 05"><br><img src="http://image.ibb.co/iEZsvw/DASPLAYER_06.png" alt="DASPLAYER 06"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ooo.0o0.ooo/2017/11/14/5a09de883bfc0.png" alt="DASPLAYER 01"> 以前看美剧即便有一些「和谐的」删减，但还是可以在一些正版的在线资源可以看。但从个人观点来说，随着在线观看美剧的资源进一步被收紧，必然导致美剧的下载需求增加，从而带动本地观看的需求。<br><a id="more"></a><br>这样的情况很有可能带来一些更不好的消息：</p><ul><li>提供美剧资源的网站将会被进一步限制；</li><li>百度网盘会员费用可能会涨价；</li><li>硬盘价格可能会上涨；</li><li>大容量手机、平板设备的需求（或价格）上涨；</li></ul><p>为什么选择使用电视来看美剧（这似乎是个有点蠢的问题）……</p><ul><li>更大的屏幕带来更好的观感；</li><li>观看过程中尽可能沉浸在剧中，被打扰、中断的概率被最小化；</li><li>智能电视（盒）越来越普及；</li><li>可以一边刷剧一边微信、淘宝、微博等；</li></ul><p>功能设计</p><ul><li>播放本地存储设备中的多媒体文件，包括优盘、存储卡、移动硬盘、本地 NAS 等；</li><li>播放云端服务上的多媒体文件，例如百度网盘等；</li><li>多媒体文件信息的智能提取、展示，获取如「剧名/电影名」、「年代」、「季/集」、甚至影剧类型等信息，还能通过联网获取影剧的豆瓣、IMDb 评分等信息；</li><li>其他还没想到的功能；</li></ul><p><img src="https://ooo.0o0.ooo/2017/11/14/5a09de901a632.png" alt="DASPLAYER 02"><br><img src="https://ooo.0o0.ooo/2017/11/14/5a09de94d456d.png" alt="DASPLAYER 03"><br><img src="https://ooo.0o0.ooo/2017/11/14/5a09de932eed1.png" alt="DASPLAYER 04"><br><img src="https://ooo.0o0.ooo/2017/11/14/5a09de95155ee.png" alt="DASPLAYER 05"><br><img src="https://ooo.0o0.ooo/2017/11/14/5a09de9685e14.png" alt="DASPLAYER 06"></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://image.ibb.co/m9HgNb/DASPLAYER_01.png-w900&quot; alt=&quot;DASPLAYER 01&quot;&gt; 以前看美剧即便有一些「和谐的」删减，但还是可以在一些正版的在线资源可以看。但从个人观点来说，随着在线观看美剧的资源进一步被收紧，必然导致美剧的下载需求增加，从而带动本地观看的需求。&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/11/14/5a09de883bfc0.png&quot; alt=&quot;DASPLAYER 01&quot;&gt; 以前看美剧即便有一些「和谐的」删减，但还是可以在一些正版的在线资源可以看。但从个人观点来说，随着在线观看美剧的资源进一步被收紧，必然导致美剧的下载需求增加，从而带动本地观看的需求。&lt;br&gt;
     
     </summary>
     
@@ -115,6 +115,8 @@
     
     
       <category term="design" scheme="http://stage14.design3r.net/tags/design/"/>
+    
+      <category term="UI" scheme="http://stage14.design3r.net/tags/UI/"/>
     
       <category term="works" scheme="http://stage14.design3r.net/tags/works/"/>
     
@@ -127,13 +129,13 @@
     <link href="http://stage14.design3r.net/2017/11/01/hello-world/"/>
     <id>http://stage14.design3r.net/2017/11/01/hello-world/</id>
     <published>2017-11-01T03:19:00.000Z</published>
-    <updated>2017-11-07T02:37:54.430Z</updated>
+    <updated>2017-11-13T18:01:52.334Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://image.ibb.co/mSMYkw/hello_again_NOTE.jpg" alt="Hello again, blog"> 重新开始写。Hexo + GitHub Pages 差不多搞定，图片存储估计会使用七牛云，之前就先用临时的凑合吧。<br><a id="more"></a><br><img src="http://image.ibb.co/jpqyJG/DAS_keyboard_RED.jpg" alt="DAS KEYBOARD RED"> 之后应该也会把在网易 LOFTER 的东西更新起来，虽然不会像之前更新那么勤快（资讯类每月更新 150+ 篇内容），但是在自己喜欢的羽毛球、跑步以及其他感兴趣的资讯会保持一定的更新频率。<br>作为一种记录，算是一种督促，督促自己跟上趋势、时常总结和反省。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ooo.0o0.ooo/2017/11/14/5a09dd841ecef.jpg" alt="hello-again-NOTE-modified.jpg"> 重新开始写。Hexo + GitHub Pages 差不多搞定，图片存储估计会使用七牛云，之前就先用<a href="https://sm.ms/" target="_blank" rel="external">临时的</a>凑合吧。<br><a id="more"></a><br><img src="https://i.loli.net/2017/11/14/5a09dd7e92c97.jpg" alt="DAS-keyboard-RED-modified.jpg"> 之后应该也会把在网易 LOFTER 的东西更新起来，虽然不会像之前更新那么勤快（资讯类每月更新 150+ 篇内容），但是在自己喜欢的羽毛球、跑步以及其他感兴趣的资讯会保持一定的更新频率。<br>作为一种记录，算是一种督促，督促自己跟上趋势、时常总结和反省。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://image.ibb.co/mSMYkw/hello_again_NOTE.jpg&quot; alt=&quot;Hello again, blog&quot;&gt; 重新开始写。Hexo + GitHub Pages 差不多搞定，图片存储估计会使用七牛云，之前就先用临时的凑合吧。&lt;br&gt;
+      &lt;p&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/11/14/5a09dd841ecef.jpg&quot; alt=&quot;hello-again-NOTE-modified.jpg&quot;&gt; 重新开始写。Hexo + GitHub Pages 差不多搞定，图片存储估计会使用七牛云，之前就先用&lt;a href=&quot;https://sm.ms/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;临时的&lt;/a&gt;凑合吧。&lt;br&gt;
     
     </summary>
     
