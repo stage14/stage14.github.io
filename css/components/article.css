@@ -31,7 +31,7 @@ article .article-title {
   line-height: 1;
   text-align: center;
   margin: 0 0 1rem 0;
-  padding: 0 2rem 1rem 2rem;
+  padding: 0 2rem;
 }
 article .article-title a {
   display: block;
@@ -54,7 +54,7 @@ article .article-top-meta {
   font-weight: 400;
   font-size: 1.2rem;
   text-align: center;
-  margin: 1rem 0;
+  margin: 2rem 0 1rem 0;
 }
 article .article-top-meta span {
   margin: 2rem 0.5rem 0 0.5rem;
