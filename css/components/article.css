@@ -31,7 +31,7 @@ article .article-title {
   line-height: 1;
   text-align: center;
   margin: 0 0 1rem 0;
-  padding: 0 2rem;
+  padding: 0 2rem 1rem 2rem;
 }
 article .article-title a {
   display: block;
