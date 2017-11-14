@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stage14.design3r.net/"/>
-  <updated>2017-11-13T18:15:31.455Z</updated>
+  <updated>2017-11-14T00:09:17.406Z</updated>
   <id>http://stage14.design3r.net/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>习作 | 微信小改</title>
+    <link href="http://stage14.design3r.net/2017/11/13/WeChat-refresh/"/>
+    <id>http://stage14.design3r.net/2017/11/13/WeChat-refresh/</id>
+    <published>2017-11-13T06:04:37.000Z</published>
+    <updated>2017-11-14T00:09:17.406Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.loli.net/2017/11/14/5a0a30f05ecb0.png" alt="WeChat-Refresh-Part-1-min.png"> 更新一个旧作，之前拿微信做的练习。</p><a id="more"></a><p><img src="https://i.loli.net/2017/11/14/5a0a30ea2175f.png" alt="WeChat-Refresh-Part-2-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30eb60a5c.png" alt="WeChat-Refresh-Part-3-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30ebd68d2.png" alt="WeChat-Refresh-Part-4-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30ec18b05.png" alt="WeChat-Refresh-Part-5-Moments-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30eec3d5b.png" alt="WeChat-Refresh-Part-6-Mini-Programs-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30ec25da6.png" alt="WeChat-Refresh-Part-7-My-Posts-min.png"></p><p>随着 iOS 11 不断更新、完善，以及 iPhone X 的发布，应该又可以拿着这个「旧作」做一番更新了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.loli.net/2017/11/14/5a0a30f05ecb0.png&quot; alt=&quot;WeChat-Refresh-Part-1-min.png&quot;&gt; 更新一个旧作，之前拿微信做的练习。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="works" scheme="http://stage14.design3r.net/categories/works/"/>
+    
+    
+      <category term="design" scheme="http://stage14.design3r.net/tags/design/"/>
+    
+      <category term="UI" scheme="http://stage14.design3r.net/tags/UI/"/>
+    
+      <category term="works" scheme="http://stage14.design3r.net/tags/works/"/>
+    
+      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown 编辑器的另类选择——Boostnote</title>
