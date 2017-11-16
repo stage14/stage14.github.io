@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stage14.design3r.net/"/>
-  <updated>2017-11-14T00:09:17.406Z</updated>
+  <updated>2017-11-16T00:54:10.769Z</updated>
   <id>http://stage14.design3r.net/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>腾讯字体——设计背后的故事</title>
+    <link href="http://stage14.design3r.net/2017/11/15/Tencent-Oblique-TTTGB-Medium-md/"/>
+    <id>http://stage14.design3r.net/2017/11/15/Tencent-Oblique-TTTGB-Medium-md/</id>
+    <published>2017-11-15T10:33:18.000Z</published>
+    <updated>2017-11-16T00:54:10.769Z</updated>
+    
+    <content type="html"><![CDATA[<embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=x0504vpkd5q&auto=0" allowfullscreen="true" quality="high" width="960" height="540" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;"><p>11 月 14 日，腾讯发布「腾讯字体」（TTTGB-Medium），收录 6,763 全形汉字，以及拉丁字母、希腊字母、日文平假名及片假名字母、俄语西里尔字母。字体由全球知名字体公司 Monotype 的字体设计师小林章提供指导，字体设计师许瀚文主导中文部分，日文字体设计师土井辽太负责日语假名设计，拉丁文字体设计师 Steve Matteson、Juan Villanueva 也参与了汉字以外的字型设计。<a href="https://mp.weixin.qq.com/s/2mhcGV9S-BXBdQreWjFYyQ" target="_blank" rel="external">新闻来源</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;embed src=&quot;https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&amp;v=20161117&amp;vid=x0504vpkd5q&amp;auto=0&quot; allowfullscreen=&quot;tru
+      
+    
+    </summary>
+    
+      <category term="design" scheme="http://stage14.design3r.net/categories/design/"/>
+    
+    
+      <category term="Tencent" scheme="http://stage14.design3r.net/tags/Tencent/"/>
+    
+      <category term="Font" scheme="http://stage14.design3r.net/tags/Font/"/>
+    
+      <category term="video" scheme="http://stage14.design3r.net/tags/video/"/>
+    
+  </entry>
+  
+  <entry>
     <title>习作 | 微信小改</title>
-    <link href="http://stage14.design3r.net/2017/11/13/WeChat-refresh/"/>
-    <id>http://stage14.design3r.net/2017/11/13/WeChat-refresh/</id>
-    <published>2017-11-13T06:04:37.000Z</published>
-    <updated>2017-11-14T00:09:17.406Z</updated>
+    <link href="http://stage14.design3r.net/2017/11/11/WeChat-refresh/"/>
+    <id>http://stage14.design3r.net/2017/11/11/WeChat-refresh/</id>
+    <published>2017-11-11T06:04:37.000Z</published>
+    <updated>2017-11-14T00:43:12.704Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://i.loli.net/2017/11/14/5a0a30f05ecb0.png" alt="WeChat-Refresh-Part-1-min.png"> 更新一个旧作，之前拿微信做的练习。</p><a id="more"></a><p><img src="https://i.loli.net/2017/11/14/5a0a30ea2175f.png" alt="WeChat-Refresh-Part-2-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30eb60a5c.png" alt="WeChat-Refresh-Part-3-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30ebd68d2.png" alt="WeChat-Refresh-Part-4-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30ec18b05.png" alt="WeChat-Refresh-Part-5-Moments-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30eec3d5b.png" alt="WeChat-Refresh-Part-6-Mini-Programs-min.png"></p><p><img src="https://i.loli.net/2017/11/14/5a0a30ec25da6.png" alt="WeChat-Refresh-Part-7-My-Posts-min.png"></p><p>随着 iOS 11 不断更新、完善，以及 iPhone X 的发布，应该又可以拿着这个「旧作」做一番更新了。</p>]]></content>
     
@@ -34,13 +63,11 @@
       <category term="works" scheme="http://stage14.design3r.net/categories/works/"/>
     
     
+      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
+    
       <category term="design" scheme="http://stage14.design3r.net/tags/design/"/>
     
       <category term="UI" scheme="http://stage14.design3r.net/tags/UI/"/>
-    
-      <category term="works" scheme="http://stage14.design3r.net/tags/works/"/>
-    
-      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
     
   </entry>
   
@@ -125,11 +152,11 @@
   </entry>
   
   <entry>
-    <title>DASPLAYER for TV</title>
+    <title>习作 | DASPLAYER for TV</title>
     <link href="http://stage14.design3r.net/2017/11/02/DASPLAYER-for-TV/"/>
     <id>http://stage14.design3r.net/2017/11/02/DASPLAYER-for-TV/</id>
     <published>2017-11-02T03:19:00.000Z</published>
-    <updated>2017-11-13T18:06:18.094Z</updated>
+    <updated>2017-11-14T00:16:46.516Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://ooo.0o0.ooo/2017/11/14/5a09de883bfc0.png" alt="DASPLAYER 01"> 以前看美剧即便有一些「和谐的」删减，但还是可以在一些正版的在线资源可以看。但从个人观点来说，随着在线观看美剧的资源进一步被收紧，必然导致美剧的下载需求增加，从而带动本地观看的需求。<br><a id="more"></a><br>这样的情况很有可能带来一些更不好的消息：</p><ul><li>提供美剧资源的网站将会被进一步限制；</li><li>百度网盘会员费用可能会涨价；</li><li>硬盘价格可能会上涨；</li><li>大容量手机、平板设备的需求（或价格）上涨；</li></ul><p>为什么选择使用电视来看美剧（这似乎是个有点蠢的问题）……</p><ul><li>更大的屏幕带来更好的观感；</li><li>观看过程中尽可能沉浸在剧中，被打扰、中断的概率被最小化；</li><li>智能电视（盒）越来越普及；</li><li>可以一边刷剧一边微信、淘宝、微博等；</li></ul><p>功能设计</p><ul><li>播放本地存储设备中的多媒体文件，包括优盘、存储卡、移动硬盘、本地 NAS 等；</li><li>播放云端服务上的多媒体文件，例如百度网盘等；</li><li>多媒体文件信息的智能提取、展示，获取如「剧名/电影名」、「年代」、「季/集」、甚至影剧类型等信息，还能通过联网获取影剧的豆瓣、IMDb 评分等信息；</li><li>其他还没想到的功能；</li></ul><p><img src="https://ooo.0o0.ooo/2017/11/14/5a09de901a632.png" alt="DASPLAYER 02"><br><img src="https://ooo.0o0.ooo/2017/11/14/5a09de94d456d.png" alt="DASPLAYER 03"><br><img src="https://ooo.0o0.ooo/2017/11/14/5a09de932eed1.png" alt="DASPLAYER 04"><br><img src="https://ooo.0o0.ooo/2017/11/14/5a09de95155ee.png" alt="DASPLAYER 05"><br><img src="https://ooo.0o0.ooo/2017/11/14/5a09de9685e14.png" alt="DASPLAYER 06"></p>]]></content>
     
@@ -145,8 +172,6 @@
       <category term="design" scheme="http://stage14.design3r.net/tags/design/"/>
     
       <category term="UI" scheme="http://stage14.design3r.net/tags/UI/"/>
-    
-      <category term="works" scheme="http://stage14.design3r.net/tags/works/"/>
     
       <category term="TV" scheme="http://stage14.design3r.net/tags/TV/"/>
     
