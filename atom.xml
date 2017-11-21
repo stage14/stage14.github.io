@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://stage14.design3r.net/"/>
-  <updated>2017-11-20T13:13:35.657Z</updated>
+  <updated>2017-11-21T12:23:24.727Z</updated>
   <id>http://stage14.design3r.net/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>向帆：小数据里的大事实</title>
+    <link href="http://stage14.design3r.net/2017/11/20/Xiang-Fan-The-Facts-of-Big-Data/"/>
+    <id>http://stage14.design3r.net/2017/11/20/Xiang-Fan-The-Facts-of-Big-Data/</id>
+    <published>2017-11-20T10:33:18.000Z</published>
+    <updated>2017-11-21T12:23:24.727Z</updated>
+    
+    <content type="html"><![CDATA[<iframe height="540" width="900" src="http://player.youku.com/embed/XMzEzNzk0MjE2OA==" frameborder="0" 'allowfullscreen'="" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;"></iframe><p>一个月之前在一席的公开演讲，最近在微信朋友圈等地方开始发酵。如果你是从事设计相关工作的，那么这个半小时的视频很可能会给你一个不同的观察数据的角度。</p><blockquote><p>左边第一个，是个美女，不上网也有很多朋友。中间那个男生他特别爱讲话，而且他特别爱上网，但没人跟他交朋友。然后右边这个女生，她又有朋友，又爱上网，但她就是不说话。你会觉得她很神秘，你会奇怪她这朋友怎么交的呢，不说话还能有这么多朋友。是不是很好玩？</p><p>这个是中国春晚的 30 年，最右边是 2012 年，最左边是 1983 年，左上角那大片蓝紫色是一段当年的手工动画。你会看到春晚整体越来越红了。</p><p>还有一个问题也很重要，什么样的年龄更容易获奖？看完这个结果我很欣慰，我离最高峰的获奖年龄还有十年时间……结论就是，统计性地来说，如果你这样画肯定能赢：一个少数民族妇女坐在窗前的沙发上，旁边最好还有一头牛。</p></blockquote><a id="more"></a><p>向帆，学者，设计师，清华大学美术学院副教授，从 2012 年开始至今任麻省理工新媒体行动实验室高级研究员。研究方向：通过对数字视觉技术的理解与运用，探索大型文化性、社会性数据中所未见的事实，以视觉艺术表现而实现生动的信息传播。主要学术领域集中于：动态媒体设计、数字艺术创作、数字视觉化设计。</p><ul><li><a href="http://www.bilibili.com/video/av16086206/" target="_blank" rel="external">哔哩哔哩上观看</a></li><li><a href="http://v.youku.com/v_show/id_XMzEzNzk0MjE2OA==.html" target="_blank" rel="external">优酷上观看</a></li><li><a href="https://www.youtube.com/watch?v=HQnIMJz5T0s" target="_blank" rel="external">Youtube 上观看</a>。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;iframe height=&quot;540&quot; width=&quot;900&quot; src=&quot;http://player.youku.com/embed/XMzEzNzk0MjE2OA==&quot; frameborder=&quot;0&quot; &#39;allowfullscreen&#39;=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;一个月之前在一席的公开演讲，最近在微信朋友圈等地方开始发酵。如果你是从事设计相关工作的，那么这个半小时的视频很可能会给你一个不同的观察数据的角度。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;左边第一个，是个美女，不上网也有很多朋友。中间那个男生他特别爱讲话，而且他特别爱上网，但没人跟他交朋友。然后右边这个女生，她又有朋友，又爱上网，但她就是不说话。你会觉得她很神秘，你会奇怪她这朋友怎么交的呢，不说话还能有这么多朋友。是不是很好玩？&lt;/p&gt;
+&lt;p&gt;这个是中国春晚的 30 年，最右边是 2012 年，最左边是 1983 年，左上角那大片蓝紫色是一段当年的手工动画。你会看到春晚整体越来越红了。&lt;/p&gt;
+&lt;p&gt;还有一个问题也很重要，什么样的年龄更容易获奖？看完这个结果我很欣慰，我离最高峰的获奖年龄还有十年时间……结论就是，统计性地来说，如果你这样画肯定能赢：一个少数民族妇女坐在窗前的沙发上，旁边最好还有一头牛。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="design" scheme="http://stage14.design3r.net/categories/design/"/>
+    
+    
+      <category term="video" scheme="http://stage14.design3r.net/tags/video/"/>
+    
+      <category term="big data" scheme="http://stage14.design3r.net/tags/big-data/"/>
+    
+      <category term="theory" scheme="http://stage14.design3r.net/tags/theory/"/>
+    
+  </entry>
   
   <entry>
     <title>关于波士顿马拉松爆炸案的两部电影</title>
@@ -178,9 +211,9 @@
       <category term="Applications" scheme="http://stage14.design3r.net/categories/Applications/"/>
     
     
-      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
-    
       <category term="macOS" scheme="http://stage14.design3r.net/tags/macOS/"/>
+    
+      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
     
       <category term="Markdown" scheme="http://stage14.design3r.net/tags/Markdown/"/>
     
