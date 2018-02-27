@@ -37,11 +37,11 @@
     
       <category term="BWF" scheme="http://stage14.design3r.net/tags/BWF/"/>
     
+      <category term="design" scheme="http://stage14.design3r.net/tags/design/"/>
+    
       <category term="badminton" scheme="http://stage14.design3r.net/tags/badminton/"/>
     
       <category term="wallpaper" scheme="http://stage14.design3r.net/tags/wallpaper/"/>
-    
-      <category term="design" scheme="http://stage14.design3r.net/tags/design/"/>
     
   </entry>
   
@@ -239,9 +239,9 @@
     
       <category term="design" scheme="http://stage14.design3r.net/tags/design/"/>
     
-      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
-    
       <category term="UI" scheme="http://stage14.design3r.net/tags/UI/"/>
+    
+      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
     
   </entry>
   
@@ -265,9 +265,9 @@
       <category term="Applications" scheme="http://stage14.design3r.net/categories/Applications/"/>
     
     
-      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
-    
       <category term="macOS" scheme="http://stage14.design3r.net/tags/macOS/"/>
+    
+      <category term="iOS" scheme="http://stage14.design3r.net/tags/iOS/"/>
     
       <category term="Markdown" scheme="http://stage14.design3r.net/tags/Markdown/"/>
     
